@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b99b5a00.css",
+    "main.js": "/my-app/static/js/main.43e27ce9.js",
+    "static/js/787.3e1fa17d.chunk.js": "/my-app/static/js/787.3e1fa17d.chunk.js",
+    "static/media/Shivam2.png": "/my-app/static/media/Shivam2.8420910fa8b4774001e4.png",
+    "static/media/Untitled design (14).png": "/my-app/static/media/Untitled design (14).3e5b8396bf4f23108bb9.png",
+    "static/media/instagram.svg": "/my-app/static/media/instagram.116ad97e1f8e0638fcb7d5aed6800697.svg",
+    "static/media/whatsapp.svg": "/my-app/static/media/whatsapp.83f494119e2a84b5a3e00aa411c0a25e.svg",
+    "static/media/twitter.svg": "/my-app/static/media/twitter.0407223bb7bca83e1349f743cc8849a2.svg",
+    "static/media/icons8-frontend-96.svg": "/my-app/static/media/icons8-frontend-96.3603c73525995384db80da5a0f5c0520.svg",
+    "static/media/sun-solid.svg": "/my-app/static/media/sun-solid.8d2535ddc1a148f23d3b91b293707685.svg",
+    "static/media/ranking-star-solid.svg": "/my-app/static/media/ranking-star-solid.efde4640b3683047e5472b2dd197d109.svg",
+    "static/media/house-chimney-solid.svg": "/my-app/static/media/house-chimney-solid.9699c5554c6bcc3adf47d5f3ba0ead53.svg",
+    "static/media/address-book-solid.svg": "/my-app/static/media/address-book-solid.3ba9d1a6ef4640fdd2e3f23412100019.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/linkedin.svg": "/my-app/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "static/media/book-solid.svg": "/my-app/static/media/book-solid.0619316f07ac60184fe211bfcd95cc9e.svg",
+    "static/media/share-nodes-solid.svg": "/my-app/static/media/share-nodes-solid.5040f8169ff7564d7d7ab24f44c81725.svg",
+    "static/media/briefcase-solid.svg": "/my-app/static/media/briefcase-solid.ae66dae652e7b28dacfe39586cfe1c43.svg",
+    "static/media/moon-solid.svg": "/my-app/static/media/moon-solid.191a6ba3b222f2772e0b9a7a19200067.svg",
+    "static/media/envelope-solid.svg": "/my-app/static/media/envelope-solid.6345f82ededa4dc800949734956dc764.svg",
+    "static/media/square-facebook.svg": "/my-app/static/media/square-facebook.e4d1358060c01a3e706738bb8983b000.svg",
+    "static/media/icons8-html.svg": "/my-app/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "static/media/user-solid.svg": "/my-app/static/media/user-solid.25c7a2c4478e96f8be7eddc9f7c01f5b.svg",
+    "static/media/chevron-down-solid.svg": "/my-app/static/media/chevron-down-solid.fd5f90d259cad6aba6e19ae5618fdb72.svg",
+    "main.b99b5a00.css.map": "/my-app/static/css/main.b99b5a00.css.map",
+    "main.43e27ce9.js.map": "/my-app/static/js/main.43e27ce9.js.map",
+    "787.3e1fa17d.chunk.js.map": "/my-app/static/js/787.3e1fa17d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99b5a00.css",
+    "static/js/main.43e27ce9.js"
+  ]
+}
